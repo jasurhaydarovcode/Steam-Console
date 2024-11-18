@@ -90,37 +90,37 @@ Steam'ni onlayn rejimga qaytarish:
 steam://online
 ```
 
-# 10. Steam o'yinlarini va yuklamalarni ko'rish:
+# 7. Steam o'yinlarini va yuklamalarni ko'rish:
 Yuklamalarni va o'yinlarni ko'rish uchun quyidagi komanda mavjud:
 ```
 steam://downloads
 ```
 
-# 11. O'yin haqida ma'lumot olish (Show game details):
+# 8. O'yin haqida ma'lumot olish (Show game details):
 O'yin haqida ma'lumot olish uchun:
 ```
 steam://details/[AppID]
 ```
 
-# 14. Steamdagi do'stlar ro'yxatini ko'rish (Friends List):
+# 9. Steamdagi do'stlar ro'yxatini ko'rish (Friends List):
 Steam do'stlaringiz ro'yxatini ko'rish uchun:
 ```
 steam://friends
 ```
 
-# 16. Mavjud Steam o'yinlarining holatini tekshirish:
+# 10. Mavjud Steam o'yinlarining holatini tekshirish:
 O'yinlarning holatini (masalan, yuklanayotgan yoki o'rnatilgan) tekshirish uchun:
 ```
 steam://apps/[AppID]/status
 ```
 
-# 17. Steam Update Tarixi (Update History):
+# 11. Steam Update Tarixi (Update History):
 Agar Steam yangilanish tarixini ko'rishni xohlasangiz:
 ```
 steam://updates
 ```
 
-# 18. Steam uchun maxsus parametrlar (Steam Parameters):
+# 12. Steam uchun maxsus parametrlar (Steam Parameters):
 Steam'ni maxsus sozlamalar bilan ishga tushirish uchun quyidagi komandalardan foydalanishingiz mumkin:
 - Steam'ni administrator sifatida ishga tushirish:
     ```
